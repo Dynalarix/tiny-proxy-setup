@@ -7,6 +7,6 @@ echo
 echo 'Installing tinyproxy package...'
 sleep 1
 
-sudo apt install tinyproxy -y
+sudo apt install tinyproxy -y && echo 'Installation complete :)'
 
 
